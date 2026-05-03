@@ -60,10 +60,6 @@ Group 18, Data Science II
 - Juan Perez — Data acquisition and preprocessing
 - Cole Jaramillo — [contribution]
 
-## Documents
-
-- [Project Proposal](./proposal/proposal.pdf)
-- [Final Paper](./paper/final_paper.pdf)
 
 ## Data Source
 
